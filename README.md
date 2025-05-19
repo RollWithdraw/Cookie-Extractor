@@ -1,6 +1,6 @@
 # Cookie Extractor
 
-A lightweight Chrome extension for extracting session cookies from CSGORoll domains with a beautiful, animated interface.
+A lightweight Chrome extension for extracting session cookies from CSGORoll
 
 ## 🚀 Features
 
